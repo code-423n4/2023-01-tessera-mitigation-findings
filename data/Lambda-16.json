@@ -1,0 +1,8 @@
+{
+  "contest": 210,
+  "handle": "Lambda",
+  "risk": "2",
+  "title": "Only one GroupBuy can ever use USDT or similar tokens with front-running approval protections",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2023-01-tessera-mitigation-findings/issues/16"
+}
