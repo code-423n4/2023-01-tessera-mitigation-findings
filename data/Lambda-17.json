@@ -1,0 +1,8 @@
+{
+  "contest": 210,
+  "handle": "Lambda",
+  "risk": "2",
+  "title": "Loss of ETH for proposer when it is a contract that doesn't have fallback function.",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2023-01-tessera-mitigation-findings/issues/17"
+}
