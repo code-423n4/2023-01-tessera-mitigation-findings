@@ -1,0 +1,8 @@
+{
+  "contest": 210,
+  "handle": "gzeon",
+  "risk": "3",
+  "title": "User might not be able to claim refund when the NFT is bought for less than the minimum reserve price",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2023-01-tessera-mitigation-findings/issues/40"
+}
